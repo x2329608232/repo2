@@ -9,8 +9,11 @@ public class Main {
         System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
         System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
         System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
     }
     public void show(){
-
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
+        System.out.println("qqqqqqqqqqqqqqqqqqqqqqqq");
     }
 }
